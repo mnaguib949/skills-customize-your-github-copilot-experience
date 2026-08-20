@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "standard-library-rest-api",
+      "title": "REST APIs with Python's Standard Library",
+      "description": "Build a REST API with Python's standard library, including HTTP routing, JSON data, validation, and error handling.",
+      "path": "assignments/standard-library-rest-api",
+      "dueDate": "2026-08-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
